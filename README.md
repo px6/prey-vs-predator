@@ -3,6 +3,7 @@
 ## Simulator Preview
 
 ![screenshot](/screenshots/pvp1.gif)
+[p5.js Demo](https://editor.p5js.org/alaskiana/sketches/4rdZrbBeP)
 
 ## Project Overview
 
