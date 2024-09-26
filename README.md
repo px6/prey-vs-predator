@@ -1,4 +1,4 @@
-# Prey Vs Predator - Semester Mini-Project Documentation
+# Prey Vs Predator - Project Documentation
 
 ## Simulator Preview
 
