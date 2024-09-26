@@ -1,6 +1,6 @@
 /*
 Project: Prey Vs Predator
-v1.007
+v1.008
 
 Fixes:
 - buttons
@@ -10,13 +10,23 @@ Fixes:
 - predators behaviours updated
 - predators multiplying
 - added an info text
+
+Documentation GitHub: https://github.com/px6/prey-vs-predator
+
+
+How to Interact:
+- Click anywhere to spawn a Prey
+- Hold X and Click anyywhere to spawn a Predator
+- Press the Spacebar to kill a random agent
+- Maintain Balance for as long as you can
+
 */
 
 let state = 1; // 1: title, 2: sim, 3: end
 let prey = [];
 let predators = [];
-let preyCount = 15;
-let predatorCount = 5;
+let preyCount = 0;
+let predatorCount = 1;
 let soundtrack, despawnSound, spawnSound, tapSound, nomnomSounds;
 let pauseButton, resetButton;
 let isPaused = false;
