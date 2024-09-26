@@ -19,7 +19,6 @@ How to Interact:
 - Hold X and Click anyywhere to spawn a Predator
 - Press the Spacebar to kill a random agent
 - Maintain Balance for as long as you can
-
 */
 
 let state = 1; // 1: title, 2: sim, 3: end
