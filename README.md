@@ -58,7 +58,7 @@ The simulation consists of three states:
 - **Spacebar**: Removes a random agent (prey or predator).
 - **Pause and Reset**: Using UI buttons, you can pause/resume and reset the simulation.
 
-## Code Structure
+## Code Structure 
 
 ### HTML
 The HTML file sets up the structure for the simulation, linking to the necessary JavaScript and sound files.
