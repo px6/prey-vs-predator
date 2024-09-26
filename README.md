@@ -11,7 +11,7 @@
 The goal of this project is to create a simulation inspired by nature, where autonomous agents (prey and predators) interact and fight for survival. The simulation is gamified to enhance interactivity, providing users with the ability to influence the environment.
 
 ### Project Inspiration
-Inspired by previous work on autonomous agents, this project simplifies the concept while introducing gamified elements. The original idea was inspired by AI Predators vs Preys v1.005 alpha.
+Inspired by my previous work on autonomous agents, this project simplifies the concept while introducing gamified elements. The original idea was inspired by AI Predators vs Preys v1.005 alpha.
 
 ## Project Structure
 
