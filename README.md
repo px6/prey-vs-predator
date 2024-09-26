@@ -239,7 +239,7 @@ The initial concept involved a simulation where autonomous agents (prey and pred
 - **VS Code**
 - **GitHub**
 - **Fruity Loops Studio**
-- **ChatGpt**
+- **ChatGPT**
 - **Adobe XD**
 
 
