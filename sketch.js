@@ -25,8 +25,8 @@ How to Interact:
 let state = 1; // 1: title, 2: sim, 3: end
 let prey = [];
 let predators = [];
-let preyCount = 0;
-let predatorCount = 1;
+let preyCount = 10;
+let predatorCount = 5;
 let soundtrack, despawnSound, spawnSound, tapSound, nomnomSounds;
 let pauseButton, resetButton;
 let isPaused = false;
