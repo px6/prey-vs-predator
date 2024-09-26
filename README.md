@@ -50,6 +50,13 @@ The simulation consists of three states:
   - Hunt prey and increase speed when pursuing.
   - Reproduce after consuming a certain number of prey.
   - Despawn if they do not hunt within a given timeframe.
+ 
+ ### Interaction:
+- **Spawning Prey and Predators**:
+   - Click to spawn prey.
+   - Hold X and click to spawn predators.
+- **Spacebar**: Removes a random agent (prey or predator).
+- **Pause and Reset**: Using UI buttons, you can pause/resume and reset the simulation.
 
 ## Code Structure
 
