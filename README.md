@@ -233,12 +233,12 @@ The initial concept involved a simulation where autonomous agents (prey and pred
 4. **Sound Design**: Custom soundtracks and sound effects were created to enhance the immersive experience.
 
 ![screenshot](/screenshots/workspace.png)
-*VS Studio Code Workspace*
+*VS Code Workspace*
 
 ![screenshot](/screenshots/chords.png)
 ![screenshot](/screenshots/sfx.png)
 
-*Soundtrack and SFX creation process
+*Soundtrack and SFX creation process*
 
 ### Tools Used
 - **p5.js**
