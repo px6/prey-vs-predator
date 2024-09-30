@@ -155,7 +155,7 @@ function displayUI() {
   text(`Prey: ${prey.length}`, 10, 30);
   text(`Predators: ${predators.length}`, 10, 60);
   textAlign(RIGHT);
-  text(`${nf(floor(timer / 60), 2)}:${nf(floor(timer % 60), 2)}`, width - 120, 9);
+  text(`${nf(floor(timer / 60), 2)}:${nf(floor(timer % 60), 2)}`, width - 110, 16);
 
   fill(150);
   textSize(14);
