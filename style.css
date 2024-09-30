@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box; /* This ensures padding and borders are included in the element's total width and height */
+  user-select: none; /* Prevents text selection */
 }
 
 html, body {
