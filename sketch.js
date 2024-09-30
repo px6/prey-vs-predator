@@ -63,6 +63,10 @@ function setup() {
   resetButton.mousePressed(resetSimulation);
 }
 
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
+}
+
 function draw() {
   if (state === 1) {
     background(0);
